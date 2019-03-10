@@ -1,6 +1,6 @@
 # Resource Wall
 
-Resouce Wall is a Pinterest for learners. 
+Resource Wall is a Pinterest for learners. 
 
 It brings you links to all sorts of learning resources in one place, allowing you to like, comment and rate resource based on how good you believe they are. 
 
